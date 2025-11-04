@@ -39,7 +39,7 @@ A **lifelong learner**, I love exploring how secure communication and AI can sha
 ---
 
 ### 🚀 Highlight Projects  
-🔹 [**UAV–RIS–ISAC System Optimization with DRL**](https://github.com/MahamadouDansoko/UAV-RIS-ISAC)  
+🔹 [**UAV–RIS–ISAC System Optimization with DRL**]([https://github.com/MahamadouDansoko/UAV-RIS-ISAC](https://github.com/MahaDeadHead23/RIS-UAV-ISAC-Secrecy-Rate-Optimization)  
 Explores secure and efficient communication for UAVs using DRL (DDPG).  
 
 🔹 [**Smart Irrigation System (IoT)**](https://github.com/MahamadouDansoko/Smart-Irrigation)  
