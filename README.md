@@ -23,6 +23,7 @@ A **lifelong learner** dedicated to exploring how secure communication, threat d
 - 🌍 Based in Morocco 🇲🇦 | Originally from Mali 🇲🇱  
 
 ---
+https://tryhackme.com/certificate/THM-EXTCHSBGTF
 
 ### 🛡️ Security Engineer | Network Architect & Engineer
 
@@ -162,6 +163,10 @@ Security Research:     ███████████████████
 </p>
 
 ---
+https://tryhackme.com/certificate/THM-CFIRHVFZ6F
+🧾 Certifications
+<p align="center"> <a href="https://tryhackme.com/certificate/THM-CFIRHVFZ6F" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe%20-%20CompTIA%20Pentest%2B%20Certified-E01F3D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Security Engineer"/> </a> </p> <p align="center"> <em>Certified for hands-on penetration testing by TryHackMe. 🌐</em
+<p align="center"> <a href="https://tryhackme.com/certificate/THM-EXTCHSBGTF" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe%20-%20CompTIA%20Pentest%2B%20Certified-E01F3D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe CompTIA Pentest+"/> </a> </p> <p align="center"> <em>Certified for hands-on penetration testing by TryHackMe. 🌐</em>
 
 ### 🏆 GitHub Trophies
 
