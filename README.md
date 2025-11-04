@@ -1,6 +1,6 @@
 <!-- Header Image or Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=180&section=header&text=Mahamadou%40DANSOKO%40👋&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=180&section=header&text=Mahamadou%20DANSOKO%20👋&fontSize=35&fontColor=ffffff" />
 </p>
 
 <!-- INTRO -->
