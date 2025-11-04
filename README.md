@@ -152,13 +152,13 @@ Security Research:     ███████████████████
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahaDeadHead2&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahaDeadHead2&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahaDeadHead23&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahaDeadHead23&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaDeadHead2&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahaDeadHead2&theme=redical&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaDeadHead23&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahaDeadHead23&theme=redical&hide_border=true&area=true" />
 </p>
 
 ---
@@ -166,7 +166,7 @@ Security Research:     ███████████████████
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahaDeadHead2&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MahaDeadHead23&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
 
 ---
@@ -178,7 +178,7 @@ Security Research:     ███████████████████
     <td width="50%">
       <h3 align="center">UAV–RIS–ISAC System Optimization with DRL</h3>
       <div align="center">  
-        <a href="https://github.com/MahaDeadHead2/RIS-UAV-ISAC-Secrecy-Rate-Optimization" target="_blank">
+        <a href="https://github.com/MahaDeadHead23/RIS-UAV-ISAC-Secrecy-Rate-Optimization" target="_blank">
           <img src="https://img.shields.io/badge/Code-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
         </a>
         <p><strong>Deep Reinforcement Learning, Network Security</strong></p>
@@ -188,7 +188,7 @@ Security Research:     ███████████████████
     <td width="50%">
       <h3 align="center">Smart Irrigation System (IoT)</h3>
       <div align="center">
-        <a href="https://github.com/MahaDeadHead2/Smart-Irrigation" target="_blank">
+        <a href="https://github.com/MahaDeadHead23/Smart-Irrigation" target="_blank">
           <img src="https://img.shields.io/badge/Code-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
         </a>
         <p><strong>IoT, Embedded Security, FreeRTOS</strong></p>
