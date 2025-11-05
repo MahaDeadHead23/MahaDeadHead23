@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Network+Security+Engineer+🔐;SOC+Analyst+(L1+%26+L2)+🛡️;IoT+%26+Cybersecurity+Researcher+🌐;Building+Secure+%26+Intelligent+Systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Network+Security+Engineer+🔐;IoT+%26+Cybersecurity+Researcher+🌐;Building+Secure+%26+Intelligent+Systems+🚀" alt="Typing SVG" />
 </p>
 
 ---
